@@ -6,6 +6,7 @@ export const Basket=({items,onPlus,onDelete,onMinus})=>{
         <h3>Basket 
           
         </h3>
+       
         <table> 
             <thead>
                 <tr>
